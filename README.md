@@ -1,4 +1,4 @@
-# Bottlenose Grade Checker
+# Bitmex Liquidation Tracker
  A CLI tool that tracks [BitMex](http://bitmex.com/) margin trade liquidations in an entertaining fashion.
 
 # Instructions
